@@ -4,7 +4,7 @@
 
 # #6
 # Find the difference between the sum of the squares of the first one
-# hundered natural numbers and the square of the sum.
+# hundred natural numbers and the square of the sum.
 
 sum_squares_total = 0
 squares_sum_total = 0
